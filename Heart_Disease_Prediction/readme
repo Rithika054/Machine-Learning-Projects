@@ -1,0 +1,7 @@
+1.IMPORT DATA
+2.Analysis the data : using methods like info(),describe(),dtypes,duplicated().
+3.visulize the data to check the differentiated using bar.
+4.Preprocess the data of encoding the columns and scale the values.
+5.split the data as train and test.
+6.build the model using ANN with the suitable activation function .
+7.once the model is build compile it using optimizer and evealuate .
